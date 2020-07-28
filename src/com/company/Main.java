@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
     
-    // Test comment
+    // Test comment 2
 
     public static void main(String[] args) {
         string("anun", "azganaun", 22);
